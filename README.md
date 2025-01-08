@@ -6,9 +6,12 @@ This repository contains a collection of reports I completed during my universit
 
 ### 1. **DNS Misuse Detection Model**
    - **Description**: Developed a model to detect malicious DNS domain types in unlabeled data using topic modeling techniques.
+   - **File**: dns_misuse_detection_dtu_2023.pdf
 
 ### 2. **Road Condition Monitoring Software**
-   - **Description**: Managed a team of seven people in a project focused on developing road condition monitoring software in Denmark. The project implemented agile methodologies to streamline development and ensure efficient collaboration.
+   - **Description**: Project focused on developing road condition monitoring software in Denmark.
+   - **File**: road_monitoring_software_dtu_2023.pdf
 
 ### 3. **Deep Learning Model for Solar Irradiance and Energy Production Forecasting**
    - **Description**: Collaborated with a research laboratory at EPFL to develop a deep learning model for forecasting solar irradiance and energy production. The model leveraged real-time image data from publicly accessible cameras.
+   - **File**: uncertainty_quantification_model_epfl_2024.pdf
