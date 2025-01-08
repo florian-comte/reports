@@ -4,10 +4,10 @@ This repository contains a collection of reports I completed during my universit
 
 ## Projects
 
-### 1. **DNS Domain Type Detection Using Topic Modeling**
+### 1. **DNS Misuse Detection Model**
    - **Description**: Developed a model to detect malicious DNS domain types in unlabeled data using topic modeling techniques.
 
-### 2. **Road Condition Monitoring Software - Project Management**
+### 2. **Road Condition Monitoring Software**
    - **Description**: Managed a team of seven people in a project focused on developing road condition monitoring software in Denmark. The project implemented agile methodologies to streamline development and ensure efficient collaboration.
 
 ### 3. **Deep Learning Model for Solar Irradiance and Energy Production Forecasting**
